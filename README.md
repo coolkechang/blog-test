@@ -23,5 +23,7 @@
 还有这样子的:
 
     function f(){
-    console.log('hello world')
-    }f()
+      console.log('hello world')
+    }
+
+    f()
